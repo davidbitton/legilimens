@@ -34,3 +34,4 @@ cmake-build-*
 .cproject
 .pydevproject
 *.kdev4
+.vscode
